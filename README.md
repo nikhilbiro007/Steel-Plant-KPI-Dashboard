@@ -16,7 +16,7 @@ The dashboard provides insights into:
 
 Description
 
-## 1. The Landing Page
+# 1. The Landing Page
 The Landing Page provides a high-level executive overview of the manufacturing business. It summarizes the most important KPIs and monthly business performance, enabling management to quickly assess overall plant health.
 
 KPIs Included
@@ -34,11 +34,11 @@ Monthly Profit Trend
 Customer & Category Filters
 Navigation Buttons to detailed pages
 
-# Business Value:
+## Business Value:
 This page acts as the executive summary of the dashboard, allowing leadership to monitor production efficiency, sales performance, inventory levels, and profitability in one place.
 
 
-## 🏭 2. Plant Performance Dashboard
+# 🏭 2. Plant Performance Dashboard
 
 Description
 
@@ -55,11 +55,11 @@ Plant Filter
 Defect Filter
 
 
-# Business Value
+## Business Value
 This dashboard helps production managers identify productivity trends, compare plant performance, evaluate product mix, and monitor manufacturing efficiency over time.
 
 
-## 3. Product Rejection Dashboard
+# 3. Product Rejection Dashboard
 Description
 The Product Rejection dashboard focuses on quality analysis by tracking rejected material across customers, products, and manufacturing plants.
 
@@ -77,11 +77,11 @@ Monthly Rejection Cost Trend
 Product-wise Rejection Distribution
 Plant-wise Rejection Contribution
 
-# Business Value:
+## Business Value:
 This page helps quality engineers identify rejection hotspots, monitor quality trends, evaluate rejection costs, and support root cause analysis for continuous improvement.
 
 
-## 📦 4. Inventory Dashboard
+# 📦 4. Inventory Dashboard
 
 Description
 The Inventory dashboard provides visibility into stock levels, inventory value, inventory ageing, and customer-wise inventory distribution.
@@ -99,11 +99,11 @@ Inventory Ageing Analysis
 Category & Grade Filters
 
 
-# Business Value:
+## Business Value:
 This dashboard enables inventory managers to optimize stock levels, monitor inventory value, identify ageing inventory, and improve warehouse planning.
 
 
-## 🛠 Data Model
+# 🛠 Data Model
 The dashboard is built using a combination of Star Schema and Snowflake Schema.
 
 Fact Tables
@@ -121,7 +121,7 @@ Grade
 Shift
 
 
-## 📈 KPIs Calculated
+# 📈 KPIs Calculated
 Total Production
 Total Sales
 Profit
@@ -136,7 +136,7 @@ Year-over-Year (YoY)
 YoY %
 
 
-## 🧮 Power BI Skills Demonstrated
+# 🧮 Power BI Skills Demonstrated
 Data Modeling (Star & Snowflake Schema)
 DAX Measures
 Time Intelligence
@@ -150,7 +150,7 @@ Dynamic Filtering
 Performance Optimization
 
 
-## 📌 Business Problem Solved
+# 📌 Business Problem Solved
 
 The dashboard consolidates production, quality, inventory, and sales data into a single reporting solution, allowing management to:
 
